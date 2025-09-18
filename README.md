@@ -1,5 +1,5 @@
-# Internet-of-Things
-Repositori ini untuk resume praktikum Internet of Things Laboratorium Workshop 
+# Internet-of-Things-2025
+Repositori ini untuk resume praktikum Internet of Things Laboratorium Workshop 2025
 --------------------------------------------------------------------------
 
 Software dan tools yang dipakai :
