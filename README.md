@@ -16,3 +16,4 @@ Software dan tools yang dipakai :
 Library yang akan digunakan :
 -----------------------
 1. ESPWebServer WiFi Library : https://drive.google.com/file/d/1t58tqJPopphpWVxDDcqoCJLOxjbnEH78/view?usp=sharing
+2. DHT sensor Library : https://github.com/adafruit/DHT-sensor-library.git
