@@ -1,7 +1,7 @@
 // DATA TEMPLATE BLYNK (Isi sesuai punya kalian) 
-#define BLYNK_TEMPLATE_ID "TMPL6oFWGXIZr"
-#define BLYNK_TEMPLATE_NAME "LED Controlling"
-#define BLYNK_AUTH_TOKEN "eRxEHRZObJwV5H1ghcmDNa0HulY5cNuA"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
